@@ -54,3 +54,12 @@ Relacionado ao bootcamp Microsoft Azure Essentials oferecido pela DIO https://we
 
 ### SLA
 > O serviçe level agreement, apresenta um quantidade calculada de provável indisponibilidade de serviços, condição que pode ser mitigada com replicação de dados e serviços, contudo aumentando o custo da solução.
+
+### IaaS
+> Infraestrutura como serviço é o nível que oferece maior controle contudo maior responsabilidade para o cliente, é uma oportunidade quando se tem uma equipe especializada pois permite reduzir custos.
+
+### PaaS
+> Plataforma como serviço é um nível de serviços de nuvem que provê menos controle e menor condição de cofiguração que o IaaS, contudo oferece condições flexíveis de responsabilidade e custo.
+
+### SaaS
+> Software as a Service oferece maior condição de facilidades de uso, com menos responsabilidade e um custo um pouco maior que o PaaS, contudo a maior parte da configuração está com o provedor de nuvem.
